@@ -1,16 +1,16 @@
-<h1>Hi, I'm Gabriel.</h1>
-<h3 style="text-align: center;">Atualmente sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
-<h3>Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
+<h1 align="center">Hi, I'm Gabriel.</h1>
+<h3 align="center"">Atualmente sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
 <div align="center">
- <a href="https://github.com/gabrieel1007">
+ <a align="center" href="https://github.com/gabrieel1007">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=gabrieel1007&show_icons=true&theme=tokyonight&repo&count_private=true"/>
  </a>
- <a href="https://github.com/gabrieel1007">
+ <a align="center" href="https://github.com/gabrieel1007">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieel1007&layout=compact&theme=tokyonight&repo&langs_count=10"/>
  </a>
 </div>
 
-<div>
+<div align="center">
   <img align="center" alt="lcs-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="lcs-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="lcs-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -21,7 +21,9 @@
 #
  
 <div> 
-  <a href="https://instagram.com/gabriel_alves521" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <div align="center">
+  <a  href="https://instagram.com/gabriel_alves521" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ga654066@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-alves07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   

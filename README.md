@@ -3,12 +3,11 @@
 <h3 align="center">Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
 <div align="center">
  <a align="center" href="https://github.com/gabrieel1007">
-  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=gabrieel1007&show_icons=true&theme=tokyonight&repo&count_private=true"/>
- </a>
- <a align="center" href="https://github.com/gabrieel1007">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieel1007&layout=compact&theme=tokyonight&repo&langs_count=10"/>
  </a>
 </div>
+
+##
 
 <div align="center">
   <img align="center" alt="lcs-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -18,7 +17,8 @@
   <img align="center" alt="lcs-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="lcs-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
-#
+
+##
  
 <div> 
  <div align="center">

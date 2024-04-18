@@ -1,12 +1,12 @@
 <h1>Hi, I'm Gabriel.</h1>
-<h3>Atualmente sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
+<h3 style="text-align: center;">Atualmente sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
 <h3>Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
 <div align="center">
- <a href="https://github.com/lcszin">
-  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=Lcszin&show_icons=true&theme=tokyonight&repo&count_private=true"/>
+ <a href="https://github.com/gabrieel1007">
+  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=gabrieel1007&show_icons=true&theme=tokyonight&repo&count_private=true"/>
  </a>
- <a href="https://github.com/lcszin">
-  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lcszin&layout=compact&theme=tokyonight&repo&langs_count=10"/>
+ <a href="https://github.com/gabrieel1007">
+  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieel1007&layout=compact&theme=tokyonight&repo&langs_count=10"/>
  </a>
 </div>
 
@@ -17,12 +17,8 @@
   <img align="center" alt="lcs-AJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="lcs-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="lcs-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="lcs-cpl" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="lcs-csp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="right" alt="lcs-pic" height="150" style="border-radius:50px;" src="ayaka-pin.jpg">
 </div>
-  
-  ##
+#
  
 <div> 
   <a href="https://instagram.com/gabriel_alves521" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

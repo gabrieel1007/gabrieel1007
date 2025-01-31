@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gabriel.</h1>
-<h3 align="center"">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.</h3>
-<h3 align="center">Dev full-stack.</h3>
+<h3 align="center"">I have 3 years' experience in programming, working on various projects and trained. </h3>
+<h3 align="center"></h3>
 <div align="center">
  <a align="center" href="https://github.com/gabrieel1007">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieel1007&layout=compact&theme=tokyonight&repo&langs_count=10"/>

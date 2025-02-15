@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gabriel.</h1>
-<h3 align="center"">I have 3 years' experience in programming, working on various projects and trained. </h3>
+<h3 align="center"">Graduated in Systems Analysis and Development, I work as a developer</h3>
 <h3 align="center"></h3>
 <div align="center">
  <a align="center" href="https://github.com/gabrieel1007">
